@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## About me
+
+Hi, I'm Chandika. I have 8+ years of total experience in IT industry in Linux Systems Administration in webhosting baremetal servers, VPS and cloud support. Experienced Systems Engineer with 2+ years expertise in cloud computing, Infra Automation & Management, Containerization and AWS Cloud technical support
+
 <!--
 **chandika-s/chandika-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
