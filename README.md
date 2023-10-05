@@ -9,58 +9,42 @@ I'm Chandika. I have 8+ years of total experience in IT industry in Linux System
 ### Areas of Expertise
 
 - Cloud Computing Platform
-    - AWS cloud
-        
+    - AWS cloud        
 - Operating Systems
     - Linux (CentOS 6/7/Almalinux, Ubuntu, Cloudlinux)
-    - Windows (2008/2012)
-      
+    - Windows (2008/2012)      
 - Scripting Languages
     - Python
-    - Bash
-      
+    - Bash      
 - Source Code Management
     - git
-    - github
-  
+    - github  
 - Infrastructure as a Code
     - Terraform
-    - Ansible
-      
+    - Ansible      
 - Configuration Management tool
-    - Ansible
-        
+    - Ansible        
 - Continuous Integration/Continuous Deployment tools
     - Jenkins
-    - GitHub Actions
-  
+    - GitHub Actions  
 - Machine Image As a Code: 
     - Packer
-
 - Containerization
     - Docker
     - Docker swarm
-    - ECS
-      
+    - ECS      
 - Project Management Tool:
-    - GitHub
-      
+    - GitHub      
 - Database Management Systems:
     - Microsoft SQL Server
     - MySQL
     - MariaDB
-
 - Monitoring Tools:
     - AWS CloudWatch
     - Grafana
     - Icinga
     - Zabbix
-    - Prometheus
-      
-- Certifications
-    - AWS Certified Could Practitioner
-    - AWS Certified Solution Architect Associate
-
+    - Prometheus      
 - Linux Server Administration
     - Services/Middleware Softwares
         - HTTP
@@ -88,6 +72,9 @@ I'm Chandika. I have 8+ years of total experience in IT industry in Linux System
         - Backup management
         - DNS troubleshooting
         - Security hardening
+- Certifications
+    - AWS Certified Could Practitioner
+    - AWS Certified Solution Architect Associate
 
 <!--
 **chandika-s/chandika-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
