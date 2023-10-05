@@ -76,6 +76,12 @@ I'm Chandika. I have 8+ years of total experience in IT industry in Linux System
     - AWS Certified Could Practitioner
     - AWS Certified Solution Architect Associate
 
+
+### Connect with me
+
+Please feel free to reach out to me by saying _hi_
+
+
 <!--
 **chandika-s/chandika-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
