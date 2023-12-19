@@ -88,9 +88,6 @@ Please feel free to reach out to me by saying _hi_
   <a href="mailto:erchandika@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://wa.me/9995627027?text=Hi%20there!">
-    <img src="https://img.shields.io/badge/Whatsapp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 
 <!--
